@@ -1,0 +1,1 @@
+Esto es mi texto que causará un conflicto
